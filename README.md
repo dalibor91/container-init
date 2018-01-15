@@ -1,6 +1,5 @@
-Repository contains scripts how to use 
-some tools to start some processes inside containers 
-in this case Docker is used.
+Repository contains scripts how to use some tools to start init processes inside containers. 
+In this case Docker is used.
 
 
 ## dumb-init
